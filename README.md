@@ -1,1 +1,2 @@
 # KHUDA-10-ML
+ML 세션 2주차 GITHUB 특강
